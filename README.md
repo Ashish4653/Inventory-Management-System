@@ -1,1 +1,1 @@
-# Inventory-Management-System
+Right now the front-end file structure is not organized I will update it later when I complete the series.
